@@ -10,6 +10,10 @@ Initial Function2()
  //Sample Code
 }
 
+f2 added()
+{
+//f2 added
+}
 
 
 }
