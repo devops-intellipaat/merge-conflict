@@ -17,10 +17,14 @@ Initial Security()
 }
 
 
-
 Security patch()
 {
   //security patch added 
+}
+
+Security patch2()
+{
+   //security patch2
 }
 
 
