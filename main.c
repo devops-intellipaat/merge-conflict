@@ -7,20 +7,15 @@ Initial Function()
 
 
 
-feaature2()
+feature2()
 {
   //Sample Code for Feature 2
-
-feature1()
-{
-  //Sample Code for Feature 1
 }
-
 
 
 Initial Security()
 {
- //Sample Code
+  
 
 }
 
@@ -37,10 +32,7 @@ Security patch2()
 }
 
 
-Adding Security Patch()
-{
-  //adding security patch1
-}
+
 
 
 
