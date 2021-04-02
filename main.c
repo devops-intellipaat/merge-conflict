@@ -13,8 +13,10 @@ feature1()
 
 {
   //Sample Code for Feature 1
-origin/feature1
 }
 
+{
+  //Sample Code for Feature 2
+}
 
 }
