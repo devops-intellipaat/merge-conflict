@@ -5,13 +5,10 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
-{
 
+Initial Security(){}
 
-}
+feature1(){}
 
-feature1()
-{
-}
+feaature2(){}
 }
