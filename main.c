@@ -15,5 +15,8 @@ security Patch()
  //Sample Code  
 }
 
+Feature1 Update()
+{
+}
 
 }
