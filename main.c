@@ -5,7 +5,7 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
+Initial Security ()
 {
  //Sample Code
 }
