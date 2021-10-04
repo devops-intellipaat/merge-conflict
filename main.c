@@ -5,11 +5,18 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
+Initial Security ()
 {
- //Sample Code
+//Sample code
 }
-
+feature1()
+{
+	  //Sample Code for Feature 1
+	  //}
+feaature2()
+{
+	  //Sample Code for Feature 2
+	  //}
 
 
 }
