@@ -5,6 +5,16 @@ Initial Function()
   //Sample Code
 }
 
+Initial Security()
+{
+ //Sample Code
+}
+
+Initial Security()
+{
+ //Sample Code
+ feature1 Security update
+}
 feature1()
 {
   //Sample Code for Feature 1
