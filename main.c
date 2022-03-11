@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  Sample Code
 }
 
-Initial Security()
+feature1()
 {
- //Sample Code
+  Sample Code for Feature 1
 }
 
 
