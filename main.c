@@ -2,14 +2,17 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  Sample Code
 }
-
-Initial Security()
+feature1()
 {
- //Sample Code
+  Sample Code for Feature 1
 }
 
+feaature2()
+{
+  Sample Code for Feature 2
+}
 
 
 }
