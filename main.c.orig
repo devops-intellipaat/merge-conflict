@@ -9,13 +9,11 @@ Initial Security()
 {
  //Sample Code
 }
-
+<<<<<<< HEAD
 Feature1 Fun()
-{
-//Sample code
-}
+=======
 Feature2 Fun()
-
+>>>>>>> feature2
 {
 //Sample code
 }
