@@ -7,9 +7,16 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+ //Added security patch
+}
+void feature1()
+{
+	//feature1 details
 }
 
-
+void feature2()
+{
+	//feature2 details
+}
 
 }
