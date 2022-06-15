@@ -9,7 +9,10 @@ Initial Security()
 {
  //Sample Code
 }
-
+void feature1()
+{
+	//feature1 details
+}
 
 
 }
