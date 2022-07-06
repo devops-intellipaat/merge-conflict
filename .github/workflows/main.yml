@@ -1,27 +1,15 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-on: workflow_dispatch
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+name: 'Dependency Review'
+on: [pull_request]
+permissions:
+  contents: read
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  dependency-review:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v3
+      - name: Dependency Review
+        uses: actions/dependency-review-action@v2
+        with:
+          # Possible values: "critical", "high", "moderate", "low"
+          fail-on-severity: critical
