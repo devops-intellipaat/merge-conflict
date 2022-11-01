@@ -5,7 +5,7 @@ Initial Function()
   //Sample Code
 }
 
-feature1()
+feature2()
 {
   //Sample Code for Feature 1
 }
