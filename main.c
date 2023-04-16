@@ -9,8 +9,4 @@ Initial Security()
 {
  //Sample Code
 }
-
-
-
-}
-//security patch 1 - feature 1
+security patch1 and 2
