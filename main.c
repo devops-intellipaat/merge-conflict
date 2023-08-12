@@ -10,7 +10,12 @@ Initial Function()
 
 Initial Security()
 {
+<<<<<<< HEAD
  //Sample Code 
+=======
+ //Sample Code added from feature 2 branch
+
+>>>>>>> f2
 }
 
 
