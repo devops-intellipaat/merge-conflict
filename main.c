@@ -1,8 +1,4 @@
-Code added from master branch
 
-{
-//Sample Code	
-}
 
 pseudo code
 {
@@ -14,7 +10,7 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code added from feature 2 branch
+ //Sample Code 
 }
 
 
