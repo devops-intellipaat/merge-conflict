@@ -1,8 +1,9 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
+@@ -10,6 +10,9 @@ Initial Security()
+ //Sample Code
+}
+
+securty patch (){
+	Security patch added in master branch.
 }
 
 feature1()
@@ -11,5 +12,5 @@ feature1()
 }
 
 
-
 }
+Footer
